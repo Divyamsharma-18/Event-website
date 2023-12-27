@@ -9,7 +9,8 @@
     background-image: linear-gradient(rgba(0,0,0,0.75)),rgba(0,0,0,0.75);
     background: url(Lily.jpg);
     background-size: cover;
-    background-position:center ; }
+    background-position:center ; 
+}
 .navbar{
     width: 85%;
     margin: auto;
@@ -19,7 +20,7 @@
     justify-content: space-between;
 }
 .logo{
-    width: 120px;
+    width: 10vmax;
     cursor: pointer;
 }
 .navbar ul li{
@@ -28,13 +29,11 @@
     margin: 0 20px;
     position: relative;
 }
-
 .navbar ul li a{
     text-decoration: none;
     color: rgb(19, 10, 24);
     text-transform: uppercase;
-    font-size: 1.5rem
-    ;
+    font-size: 1.8vmax;
 }
 .navbar ul li::after{
     content: '';
@@ -59,13 +58,17 @@
     color: white;
 }
 .content h1{
-    font-size: 70px;
+    font-size: 5vmin;
     margin-top: 80px;
 }
 .content p{
     margin: 20px auto;
     font-weight: 100;
-    line-height: 25px;
+    line-height: 1.8vmax;
+}
+.banner .content .btn{
+    height: 100px;
+    font-size: larger;
 }
 button{
     width: 200px;
@@ -81,9 +84,6 @@ button{
     position: relative;
     overflow: hidden;
 }
-p{
-    font-size: large;
-}
 span{
     background: #d71dfc;
     height: 100%;
@@ -94,7 +94,6 @@ span{
     bottom: 0;
     z-index: -1;
     transition: 0.5s;
-    
 }
 button:hover span{
     width: 100%;
