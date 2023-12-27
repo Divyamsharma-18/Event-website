@@ -53,6 +53,7 @@
     width: 100%;
     position: absolute;
     top: 50%;
+    padding-top: 250px;
     transform: translateY(-50%);
     text-align: center;
     color: white;
