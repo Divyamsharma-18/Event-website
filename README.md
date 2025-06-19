@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/first--project-proud-blueviolet)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%2FCSS-orange)
-![Responsive](https://img.shields.io/badge/Responsive-No-red)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-red)
 ![Learning](https://img.shields.io/badge/Learning%20Path-Started%20Here-ff69b4)
 
 Welcome to my very first website project!  
